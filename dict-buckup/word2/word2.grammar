@@ -1,0 +1,44 @@
+S : NS_B word_a NS_E
+word_a : ELIZA
+word_a : OK
+word_a : END
+word_a : START
+word_a : AISATU
+
+S : NS_B word_b word_c word_d NS_E
+word_b : VOLUME
+word_c : WORDX
+word_d : DOWN
+word_d : UP
+
+
+S : NS_B word_e word_f NS_E
+word_e : VOLUME
+word_f : DOWN
+word_f : UP
+
+
+S : NS_B word_g word_h word_i NS_E
+word_g : MUSIC
+word_h : WORDX
+word_i : START
+word_i:END
+word_i:ON
+word_i:OFF
+word_i:SHUFFLE
+word_i:RANDOM
+
+S : NS_B word_j word_k NS_E
+word_j : MUSIC
+word_k:START
+word_k:END
+word_k:ON
+word_k:OFF
+word_k:SHUFFLE
+word_k:RANDOM
+
+S : NS_B word_l word_n word_m NS_E
+word_l:NEXT
+word_l:BEFORE
+word_n:WORDX
+word_m:MUSIC

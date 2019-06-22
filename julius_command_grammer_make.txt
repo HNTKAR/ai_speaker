@@ -1,0 +1,9 @@
+/home/pi/julius-4.4.2‚ÉˆÚ“®
+
+nano xxx.voca
+nano xxx.grammar
+cp /home/pi/julius-4.4.2/gramtools/mkdfa/mkfa-1.44-flex/mkfa /home/pi/julius-4.4.2/gramtools/mkdfa/mkfa
+cp /home/pi/julius-4.4.2/gramtools/dfa_minimize/dfa_minimize /home/pi/julius-4.4.2/gramtools/mkdfa/dfa_minimize
+sudo /home/pi/julius-4.4.2/gramtools/mkdfa/mkdfa.pl xxx
+sudo modprobe snd-pcm-oss
+julius -C /home/pi/julius-4.4.2/julius-kit/grammar-kit-4.3.1/hmm_mono.jconf -input mic -gram xxx

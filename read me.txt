@@ -1,0 +1,8 @@
+amixer sset Mic 4 -c 0
+cd julius-4.4.2/
+sudo modprobe snd-pcm-oss
+julius -C /home/pi/julius-4.4.2/julius-kit/grammar-kit-4.3.1/hmm_mono.jconf -input mic -gram word2 -module
+python3 /home/pi/Desktop/mypython/ai/onsei.py
+
+cd /home/pi/Desktop/mypython/ai/voice.txt
+open_jtalk -m /usr/share/hts-voice/mei/mei_normal.htsvoice -x /var/lib/mecab/dic/open-jtalk/naist-jdic -ow test.mp3 voice.txt

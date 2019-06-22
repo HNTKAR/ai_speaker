@@ -1,0 +1,106 @@
+%ELIZA
+ELIZA	i r a i z a
+イライザ	i r a i z a
+いらいざ	i r a i z a
+
+%OK
+OK	o: k e:
+オーケー	o: k e:
+おーけー	o: k e:
+オウケイ	o u k e i
+おうけい	o u k e i
+
+%MUSIC
+曲	ky o k u
+きょく	ky o k u
+音楽	o N g a k u
+おんがく	o N g a k u
+楽曲	g a q ky o k u
+がっきょく	g a q ky o k u
+歌	u t a
+うた	u t a
+
+%END
+終わり	o w a r i
+おわり	o w a r i
+終了	sh u u ry o u
+しゅうりょう	sh u u ry o u
+しゅーりょー	sh u: ry o:
+
+%START
+スタート	s u t a: t o
+すたーと	s u t a: t o
+スタアト	s u t a a t o
+すたあと	s u t a a t o
+始め	h a j i m e
+はじめ	h a j i m e
+開始	k a i sh i
+かいし	k a i sh i
+
+%AISATU
+おはよう	o h a y o u
+おやすみ	o y a s u m i
+ありがとう	a r i g a t o u
+
+
+%VOLUME
+ボリューム	b o ry u: m u
+ぼりゅーむ	b o ry u: m u
+ボリュウム	b o ry u u m u
+ぼりゅうむ	b o ry u u m u
+音量	o N ry o u
+おんりょう	o N ry o u
+
+%WORDX
+の	n o
+を	o
+は	w a
+
+%DOWN
+down	d a u N
+ダウン	d a u N
+だうん	d a u N
+下げて	s a g e t e
+さげる	s a g e r u
+
+%UP
+up	a q p u
+あっぷ	a q p u
+上げる	a g e r u
+あげる	a g e r u
+上げて	a g e t e
+あげて	a g e t e
+
+%NEXT
+後	a t o
+あと	a t o
+次	ts u g i
+つぎ	ts u g i
+
+%BEFORE
+前	m a e
+まえ	m a e
+
+%ON
+ON	o N
+オン	o N
+おん	o N
+
+%OFF
+OFF	o f u
+オフ	o f u
+おふ	o f u
+
+%SHUFFLE
+シャッフル	sh a q f u r u
+しゃっふる	sh a q f u r u
+
+%RANDOM
+ランダム	r a N d a m u
+らんだむ	r a N d a m u
+
+
+% NS_B
+[s]             silB
+% NS_E
+[/s]            silE

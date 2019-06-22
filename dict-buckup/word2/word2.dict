@@ -1,0 +1,70 @@
+0	[ELIZA]	i r a i z a
+0	[イライザ]	i r a i z a
+0	[いらいざ]	i r a i z a
+1	[OK]	o: k e:
+1	[オーケー]	o: k e:
+1	[おーけー]	o: k e:
+1	[オウケイ]	o u k e i
+1	[おうけい]	o u k e i
+2	[曲]	ky o k u
+2	[きょく]	ky o k u
+2	[音楽]	o N g a k u
+2	[おんがく]	o N g a k u
+2	[楽曲]	g a q ky o k u
+2	[がっきょく]	g a q ky o k u
+2	[歌]	u t a
+2	[うた]	u t a
+3	[終わり]	o w a r i
+3	[おわり]	o w a r i
+3	[終了]	sh u u ry o u
+3	[しゅうりょう]	sh u u ry o u
+3	[しゅーりょー]	sh u: ry o:
+4	[スタート]	s u t a: t o
+4	[すたーと]	s u t a: t o
+4	[スタアト]	s u t a a t o
+4	[すたあと]	s u t a a t o
+4	[始め]	h a j i m e
+4	[はじめ]	h a j i m e
+4	[開始]	k a i sh i
+4	[かいし]	k a i sh i
+5	[おはよう]	o h a y o u
+5	[おやすみ]	o y a s u m i
+5	[ありがとう]	a r i g a t o u
+6	[ボリューム]	b o ry u: m u
+6	[ぼりゅーむ]	b o ry u: m u
+6	[ボリュウム]	b o ry u u m u
+6	[ぼりゅうむ]	b o ry u u m u
+6	[音量]	o N ry o u
+6	[おんりょう]	o N ry o u
+7	[の]	n o
+7	[を]	o
+7	[は]	w a
+8	[down]	d a u N
+8	[ダウン]	d a u N
+8	[だうん]	d a u N
+8	[下げて]	s a g e t e
+8	[さげる]	s a g e r u
+9	[up]	a q p u
+9	[あっぷ]	a q p u
+9	[上げる]	a g e r u
+9	[あげる]	a g e r u
+9	[上げて]	a g e t e
+9	[あげて]	a g e t e
+10	[後]	a t o
+10	[あと]	a t o
+10	[次]	ts u g i
+10	[つぎ]	ts u g i
+11	[前]	m a e
+11	[まえ]	m a e
+12	[ON]	o N
+12	[オン]	o N
+12	[おん]	o N
+13	[OFF]	o f u
+13	[オフ]	o f u
+13	[おふ]	o f u
+14	[シャッフル]	sh a q f u r u
+14	[しゃっふる]	sh a q f u r u
+15	[ランダム]	r a N d a m u
+15	[らんだむ]	r a N d a m u
+16	[[s]]	silB
+17	[[/s]]	silE
